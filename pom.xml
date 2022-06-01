@@ -74,6 +74,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
+					<finalName>thymeleaf</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
