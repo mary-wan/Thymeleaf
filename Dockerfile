@@ -1,5 +1,5 @@
 FROM openjdk:18
-LABEL maintainer="KEN20956@kcbgroup.com"
+LABEL maintainer="test@gmail.com"
 ENV PORT 8181
 COPY target/*.jar /opt/thymeleaf.jar 
 WORKDIR /opt
